@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">County McCountface</string>
+    <string name="sentence">Enter a sentence</string>
+    <string name="button">Shake me!</string>
+</resources>
